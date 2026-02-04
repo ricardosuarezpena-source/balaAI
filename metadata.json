@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Clone Pro",
+  "description": "A feature-rich, high-performance AI chat interface powered by Google Gemini, featuring streaming responses, markdown support, and persistent chat history.",
+  "requestFramePermissions": []
+}
